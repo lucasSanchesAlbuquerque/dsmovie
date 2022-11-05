@@ -1,0 +1,41 @@
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.dsmovie-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffff;
+
+}
+.dsmovie-nav-content h1{
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+
+}
+
+.dsmovie-nav-content a{
+  display: flex;
+  margin: 0 10 0 0;
+  align-items: center;
+
+}
+
+.dsmovie-icon-container{
+    display: flex;
+    color: #ffff;
+    
+}
+
+.dsmovie-link{
+    margin: 0 0 0 0;
+    color: #ffff;
+    align-items: center;
+    padding-left: 8px;
+    font-size: 12px;
+    align-items: center;
+}
